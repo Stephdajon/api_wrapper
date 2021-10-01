@@ -28,5 +28,5 @@
 * Rawg::Client.developers
 ![image](https://user-images.githubusercontent.com/81001996/135695248-a4f52d5e-dfb3-4d7f-bed5-f4ddfa5b42de.png)
 
-# See https://rawg-api.herokuapp.com
+* See https://rawg-api.herokuapp.com
 
